@@ -1,0 +1,47 @@
+
+Grand total of sales over all stores:	 RM 3140000.00
+Average sales per month:		 RM  261666.67
+
+The highest sales:
+------------------
+Store:  Johor Bahru  
+Month:  Nov
+Sales:  RM  98000.00
+
+The lowest sales:
+------------------
+Store:  Kota Tinggi  
+Month:  Jul
+Sales:  RM  13000.00
+
+
+Total sales by month:
+Month	Sales
+-----	-----
+Jan   RM  322000.00
+Feb   RM  202000.00
+Mar   RM  266000.00
+Apr   RM  265000.00
+May   RM  278000.00
+Jun   RM  262000.00
+Jul   RM  280000.00
+Aug   RM  300000.00
+Sep   RM  205000.00
+Oct   RM  245000.00
+Nov   RM  223000.00
+Dec   RM  292000.00
+
+Total sales by store:
+Store		Total Sales
+-----		-----------
+ Johor Bahru  	RM  865000.00
+ Segamat      	RM  597000.00
+ Batu Pahat   	RM  335000.00
+ Kota Tinggi  	RM  697000.00
+ Mersing      	RM  646000.00
+
+Profitable stores:
+------------------
+ Johor Bahru  
+ Kota Tinggi  
+ Mersing      
